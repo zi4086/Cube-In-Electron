@@ -13,7 +13,7 @@
 需要安装好 [node.js](https://nodejs.org/en/) 环境，使用 npm 安装依赖包：
 
 	git clone https://github.com/issac2015/Cube-In-Electron.git
-	cd Cube-In-Electron\app
+	cd Cube-In-Electron/app
 	npm install 
 
 如果由于网络问题，安装不了依赖包，可以使用淘宝的 [cnpm](https://npm.taobao.org/) 来安装。
